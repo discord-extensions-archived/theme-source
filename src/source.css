@@ -1,3 +1,37 @@
+/*setTimeout(function(){debugger;}, 3000)*/
+:root {
+    --background-primary: #141414 !important;
+    --background-secondary: #111111 !important;
+    --background-secondary-alt: #292929 !important;
+    --background-tertiary: #0c0c0c !important;
+    --background-accent: #242424 !important;
+    --background-floating: black !important; 
+    --background-modifier-hover: rgba(255,255,255,0.01) !important;
+    --background-modifier-active: rgba(255,255,255,0.03) !important;
+    --background-modifier-selected: rgba(255,255,255,0.04) !important;
+    --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
+    --channeltextarea-background: var(--background-accent) !important;
+    --deprecated-card-bg: rgba(0, 0, 0, 0.2) !important;
+    --deprecated-card-editable-bg: rgba(0,0,0,0.1) !important;
+    --deprecated-text-input-border-disabled: var(--background-tertiary) !important;
+    --activity-card-background: var(--background-primary) !important;
+    --channels-default: #9f9f9f !important;
+    --text-muted: #b6b6b6 !important;
+    --text-normal: #fbfbfb !important; 
+    --interactive-normal: #c8c8c8 !important;
+    --interactive-hover: #dcddde !important;
+    --interactive-active: #fff !important;
+    --interactive-muted: #747474 !important;
+    --header-secondary: #c9c9c9 !important;
+    --toast-background: var(--background-primary) !important;
+    --toast-header: var(--background-tertiary) !important;
+    --toast-contents: var(--background-secondary) !important;
+    --toast-box-shadow: rgba(0, 0, 0, .2) !important;
+    --toast-border: var(--background-tertiary) !important;
+    --offline-color: rgb(60, 60, 60) !important;
+}
+
+
 /* misc background-primary */
 .peopleColumn-29fq28,
 .closeButton-3sommQ + .content-1LAB8Z,
@@ -12,11 +46,17 @@
 [aria-label="User area"],
 .inspector-S2gM3e,
 .footer-2gL1pp,
-.noticeRegion-1YviSH > div {
+.noticeRegion-1YviSH > div,
+.upsellFooter-ZYsio_ {
     background-color: var(--background-tertiary) !important;
 }
 .footer-2gL1pp {
     box-shadow: 0 0 0 1px var(--background-primary) 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
+}
+
+/* unosorted */
+.blockquoteDivider-2hH8H6 {
+    background-color: rgba(255, 255, 255, 0.2);
 }
 
 
@@ -52,18 +92,6 @@
 }
 
 
-/* Server Discovery */
-.pageWrapper-1PgVDX {
-    background-color: var(--background-primary) !important;
-}
-.guildList-3cJX3d > div > .card-3DjzTQ {
-    background-color: var(--background-secondary) !important;
-}
-.guildList-3cJX3d > div > .card-3DjzTQ:hover {
-    background-color: var(--background-tertiary) !important;
-}
-
-
 /* Billing Card Setting Tab */
 .codeRedemptionRedirect-1wVR4b.card-3Qj_Yx {
     background-color: var(--background-secondary) !important;
@@ -90,6 +118,17 @@
 }
 
 
+/* Emoji Server Tab */
+.emojiRow-zIc7ZX::before {
+    background-color: var(--background-secondary) !important;
+    border-color: var(--background-tertiary) !important;
+}
+.emojiInput-1aLNse {
+    background-color: var(--background-primary) !important;
+    border-color: var(--background-secondary-alt) !important;
+}
+
+
 /* User Modals */
 .headerNormal-T_seeN {
     background-color: var(--background-tertiary) !important;
@@ -104,6 +143,18 @@
 .connectedAccounts-repVzS > .connectedAccount-36nQx7 {
     background-color: var(--background-tertiary);
     border-color: var(--background-secondary-alt)
+}
+
+
+/* Server Discovery */
+.pageWrapper-1PgVDX {
+    background-color: var(--background-primary) !important;
+}
+.guildList-3cJX3d > div > .card-3DjzTQ {
+    background-color: var(--background-secondary) !important;
+}
+.guildList-3cJX3d > div > .card-3DjzTQ:hover {
+    background-color: var(--background-tertiary) !important;
 }
 
 
@@ -149,6 +200,7 @@
 }
 
 
+
 /* Message Search and Quickswitcher */
 .searchFilter-2ESiM3,
 .searchAnswer-3Dz2-q {
@@ -174,3 +226,4 @@
 .quickswitcher-3JagVE > .input-2VB9rf {
     background-color: var(--channeltextarea-background)
 }
+
