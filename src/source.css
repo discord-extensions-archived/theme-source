@@ -1,15 +1,23 @@
 /* misc background-primary */
 .peopleColumn-29fq28,
-.closeButton-3sommQ + .content-1LAB8Z,
 .fullscreenOnMobile-1aglG_,
 .root-1ANs48,
-[aria-labelledby="uid_7982"] > .root-1gCeng {
+.modalSize-cqUaws.root-1gCeng {
     background-color: var(--background-primary) !important;
 }
 .fullscreenOnMobile-1aglG_,
-[aria-labelledby="uid_7982"] > .root-1gCeng {
+.root-1gCeng {
     box-shadow: 0 0 0 1px var(--background-primary) 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
 }
+
+/* misc background-secondary-alt */
+.slider-1PF9SW > .bar-2Qqk5Z {
+    background-color: var(--background-secondary-alt) !important;
+}
+.closeButton-1tv5uR {
+    border-color: var(--background-secondary-alt) !important;
+}
+
 
 /* misc background-teritary */
 [aria-label="User area"],
@@ -72,6 +80,23 @@
 }
 
 
+/* Game Activity Setting Tab */
+.notDetected-33MY4s {
+    background-color: var(--background-secondary-alt) !important;
+}
+.game-1ipmAa.card-FDVird::before {
+    background-color: var(--background-secondary) !important;
+    border-color: var(--background-tertiary) !important;
+}
+.gameNameInput-385LoS:hover,
+.gameNameInput-385LoS:focus {
+    background-color: var(--background-primary) !important;
+    border-color: var(--background-modifier-accent) !important;
+}
+.game-1ipmAa {
+    box-shadow: 0 1px 0 0 var(--background-modifier-accent) !important;
+}
+
 /* Emoji Server Tab */
 .emojiRow-zIc7ZX::before {
     background-color: var(--background-secondary) !important;
@@ -79,7 +104,7 @@
 }
 .emojiInput-1aLNse {
     background-color: var(--background-primary) !important;
-    border-color: var(--background-secondary-alt) !important;
+    border-color: var(--background-modifier-accent) !important;
 }
 
 
@@ -96,7 +121,7 @@
 }
 .connectedAccounts-repVzS > .connectedAccount-36nQx7 {
     background-color: var(--background-tertiary);
-    border-color: var(--background-secondary-alt)
+    border-color: var(--background-modifier-accent)
 }
 
 
@@ -200,4 +225,11 @@
 .codeRedemptionRedirect-1wVR4b.card-3Qj_Yx {
     background-color: var(--background-secondary) !important;
     border-color: var(--background-tertiary)
+}
+.keybindGroup-JQs9x_::before {
+    background-color: var(--background-secondary) !important;
+    border-color: var(--background-tertiary) !important;
+}
+.css-3vaxre-menu {
+    background-color: var(--background-secondary) !important;
 }
