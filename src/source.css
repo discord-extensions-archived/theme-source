@@ -35,10 +35,11 @@
 /* misc background-primary */
 .peopleColumn-29fq28,
 .closeButton-3sommQ + .content-1LAB8Z,
-.root-1gCeng {
+.fullscreenOnMobile-1aglG_,
+.fullscreenOnMobile-1bD22y {
     background-color: var(--background-primary) !important;
 }
-.root-1gCeng {
+.fullscreenOnMobile-1aglG_{
     box-shadow: 0 0 0 1px var(--background-primary) 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
 }
 
