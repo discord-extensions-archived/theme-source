@@ -97,6 +97,7 @@
     box-shadow: 0 1px 0 0 var(--background-modifier-accent) !important;
 }
 
+
 /* Emoji Server Tab */
 .emojiRow-zIc7ZX::before {
     background-color: var(--background-secondary) !important;
@@ -105,6 +106,24 @@
 .emojiInput-1aLNse {
     background-color: var(--background-primary) !important;
     border-color: var(--background-modifier-accent) !important;
+}
+
+
+/* Server Boost Status Tab */
+.tierHeaderContent-2-YfvN {
+    background-color: var(--background-tertiary) !important;
+}
+.tierBody-x9kBBp {
+    background-color: var(--background-secondary-alt) !important;
+}
+
+
+/* Other Server Settings */
+.auditLog-3jNbM6,
+.member-1q7VfX::before,
+.inviteSettingsInviteRow-3p2O-N::before {
+    background-color: var(--background-secondary) !important;
+    border-color: var(--background-tertiary) !important;
 }
 
 
@@ -143,6 +162,9 @@
 }
 .autocompleteRow-2OthDa > .selected-1Tbx07 {
     background-color: var(--background-modifier-hover) !important;
+}
+.autocompleteRowVertical-q1K4ky > .base-1pYU8j > .divider-23swzi {
+    background-color: var(--background-secondary-alt) !important;
 }
 
 
@@ -232,4 +254,7 @@
 }
 .css-3vaxre-menu {
     background-color: var(--background-secondary) !important;
+}
+.item-3eFBNF {
+    box-shadow: 0 1px 0 0 var(--background-modifier-accent) !important;
 }
