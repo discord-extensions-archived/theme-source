@@ -14,19 +14,11 @@
 /* misc background-teritary */
 [aria-label="User area"],
 .inspector-S2gM3e,
-.footer-2gL1pp,
 .noticeRegion-1YviSH > div,
 .upsellFooter-ZYsio_ {
     background-color: var(--background-tertiary) !important;
 }
-.footer-2gL1pp {
-    box-shadow: 0 0 0 1px var(--background-primary) 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
-}
 
-/* unosorted */
-.blockquoteDivider-2hH8H6 {
-    background-color: rgba(255, 255, 255, 0.2);
-}
 
 
 /* Webkit Scrollers */
@@ -58,20 +50,6 @@
 }
 .checked-3_4uQ9 > svg > path {
     fill: var(--background-secondary-alt);
-}
-
-
-/* Color Picker */
-.colorPickerCustom-2CWBn2 {
-    background-color: var(--background-tertsiary) !important;
-    border-color: var(--background-secondary) !important;
-}
-
-
-/* Billing Card Setting Tab */
-.codeRedemptionRedirect-1wVR4b.card-3Qj_Yx {
-    background-color: var(--background-secondary) !important;
-    border-color: var(--background-tertiary)
 }
 
 
@@ -200,4 +178,26 @@
 }
 .quickswitcher-3JagVE > .input-2VB9rf {
     background-color: var(--channeltextarea-background)
+}
+
+
+/* unosorted */
+.blockquoteDivider-2hH8H6 {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.previewOverlayInner-1WXURq {
+    background-color: var(--background-tertiary) !important;
+    box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
+.footer-2gL1pp {
+    background-color: var(--background-tertiary) !important;
+    box-shadow: 0 0 0 1px var(--background-primary) 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
+}
+.colorPickerCustom-2CWBn2 {
+    background-color: var(--background-tertsiary) !important;
+    border-color: var(--background-secondary) !important;
+}
+.codeRedemptionRedirect-1wVR4b.card-3Qj_Yx {
+    background-color: var(--background-secondary) !important;
+    border-color: var(--background-tertiary)
 }
