@@ -23,7 +23,8 @@
 .modalSize-cqUaws.root-1gCeng,
 .root-1ANs48,
 .fullscreenOnMobile-1aglG_,
-.container-14fypd.root-1gCeng > .form-26zE04 {
+.container-14fypd.root-1gCeng > .form-26zE04,
+.root-1gCeng.fullscreenOnMobile-1bD22y:not(.modal-qgFCbT) {
     background-color: var(--background-primary) !important;
 }
 .modal-3O0aXp.root-1gCeng {
