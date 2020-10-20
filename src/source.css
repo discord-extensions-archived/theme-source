@@ -110,6 +110,10 @@
     background-color: rgb(80, 80, 80) !important;
     height: 19px;
 }
+.previewOverlay-2O7_KC {
+    background-color: var(--background-secondary) !important;
+    border-color: var(--background-tertiary) !important;
+}
 
 
 /* Game Activity Setting Tab */
@@ -352,10 +356,6 @@
 /* unosorted */
 .blockquoteDivider-2hH8H6 {
     background-color: rgba(255, 255, 255, 0.2);
-}
-.previewOverlayInner-1WXURq {
-    background-color: var(--background-tertiary) !important;
-    box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
 }
 .footer-2gL1pp {
     background-color: var(--background-tertiary) !important;
