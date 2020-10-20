@@ -66,6 +66,7 @@
 
 /* Join/Create A Server */
 .theme-dark .theme-light .root-1gCeng {
+    --header-primary: #fff;
     background-color: var(--background-primary) !important;
     box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
 }
