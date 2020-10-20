@@ -19,6 +19,34 @@
 }
 
 
+/* Inputs/Toggle */
+.css-3vaxre-menu,
+.css-gvi9bl-control,
+.codeRedemptionInput-3JOJea,
+.container-1nZlH6.hasValue-3pdcdm {
+    background-color: var(--background-secondary) !important;
+}
+.css-6fzn47-control {
+    background-color: var(--background-tertiary) !important;
+}
+.css-3vaxre-menu {
+    border-color: var(--background-tertiary);
+    box-shadow: var(--background-floating) 0px 1px 5px 0px !important;
+}
+.css-gvi9bl-control {
+    border-color: var(--background-tertiary);
+}
+.css-1ba14n5-option {
+    background-color: var(--background-modifier-selected);
+}
+.css-rzbxvl-option:hover {
+    background-color: var(--background-modifier-hover);
+}
+.css-rzbxvl-option:active {
+    background-color: var(--background-modifier-active);
+}
+
+
 /* Popout Modals */
 .modalSize-cqUaws.root-1gCeng,
 .root-1ANs48,
@@ -29,7 +57,7 @@
 }
 .fullscreenOnMobile-1bD22y:not(.modal-qgFCbT) {
    background-color: var(--background-primary) !important;
-   box-shadow: 0 0 0 1px var(--background-secondary-alt), 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
+   box-shadow: 0 0 0 1px var(--background-secondary), 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
 }
 .modal-3O0aXp.root-1gCeng {
     background-color: var(--background-tertiary) !important;
@@ -77,13 +105,10 @@
 }
 
 
-/* Mic Test Setting Tab  */
+/* Voice and Video Setting Tab  */
 .progress-1IcQ3A {
     background-color: rgb(80, 80, 80) !important;
     height: 19px;
-}
-.notches-1sAcEM.gray-3_LNYR {
-    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='rgb(20, 20, 20)'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E") !important;
 }
 
 
@@ -348,9 +373,6 @@
     background-color: var(--background-secondary) !important;
     border-color: var(--background-tertiary) !important;
 }
-.css-3vaxre-menu {
-    background-color: var(--background-secondary) !important;
-}
 .item-3eFBNF {
     box-shadow: 0 1px 0 0 var(--background-modifier-accent) !important;
 }
@@ -360,4 +382,7 @@
 .message-2qRu38 {
    background-color: var(--background-secondary) !important;
    box-shadow: 0 0 0 1px var(--background-secondary-alt), 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
+}
+.notificationSettings-1NQKPR > div > .wrapper-3jrx9n > .option-n0icdO:not(.selected-mKYnfr) {
+    background-color: var(--background-modifier-accent);
 }
