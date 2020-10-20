@@ -131,6 +131,11 @@
 .tierBody-x9kBBp {
     background-color: var(--background-secondary-alt) !important;
 }
+.tierMarkerBackground-3q29am,
+.barBackground-2EEiLw {
+    background-color: var(--background-secondary-alt) !important;
+    box-shadow: 0 0 15px var(--background-tertiary) !important;
+}
 
 
 /* Other Server Settings */
