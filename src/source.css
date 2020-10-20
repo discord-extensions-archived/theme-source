@@ -20,14 +20,23 @@
 
 
 /* Inputs/Toggle */
+.keybindGroup-JQs9x_::before {
+    background-color: var(--background-secondary-alt) !important;
+    border-color: var(--background-tertiary) !important;
+}
 .css-3vaxre-menu,
 .css-gvi9bl-control,
 .codeRedemptionInput-3JOJea,
-.container-1nZlH6.hasValue-3pdcdm {
+.container-1nZlH6.hasValue-3pdcdm,
+.container-CpszHS.container-1nZlH6 {
     background-color: var(--background-secondary) !important;
 }
 .css-6fzn47-control {
     background-color: var(--background-tertiary) !important;
+}
+.css-17mfgdg-container > .css-118dehu-control {
+    background-color: var(--background-primary) !important;
+    border-color: var(--background-tertiary) !important;
 }
 .css-3vaxre-menu {
     border-color: var(--background-tertiary);
@@ -45,6 +54,10 @@
 .css-rzbxvl-option:active {
     background-color: var(--background-modifier-active);
 }
+.inputDefault-_djjkz.input-cIJ7To {
+    border-color: var(--background-tertiary) !important;
+}
+
 
 
 /* Popout Modals */
@@ -56,8 +69,8 @@
     background-color: var(--background-primary) !important;
 }
 .fullscreenOnMobile-1bD22y:not(.modal-qgFCbT) {
-   background-color: var(--background-primary) !important;
-   box-shadow: 0 0 0 1px var(--background-secondary), 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
+    background-color: var(--background-primary) !important;
+    box-shadow: 0 0 0 1px var(--background-secondary), 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
 }
 .modal-3O0aXp.root-1gCeng {
     background-color: var(--background-tertiary) !important;
@@ -121,7 +134,7 @@
     background-color: var(--background-secondary-alt) !important;
 }
 .game-1ipmAa.card-FDVird::before {
-    background-color: var(--background-secondary) !important;
+    background-color: var(--background-secondary-alt) !important;
     border-color: var(--background-tertiary) !important;
 }
 .gameNameInput-385LoS:hover,
@@ -136,7 +149,7 @@
 
 /* Emoji Server Tab */
 .emojiRow-zIc7ZX::before {
-    background-color: var(--background-secondary) !important;
+    background-color: var(--background-secondary-alt) !important;
     border-color: var(--background-tertiary) !important;
 }
 .emojiInput-1aLNse {
@@ -368,10 +381,6 @@
 .codeRedemptionRedirect-1wVR4b.card-3Qj_Yx {
     background-color: var(--background-secondary) !important;
     border-color: var(--background-tertiary)
-}
-.keybindGroup-JQs9x_::before {
-    background-color: var(--background-secondary) !important;
-    border-color: var(--background-tertiary) !important;
 }
 .item-3eFBNF {
     box-shadow: 0 1px 0 0 var(--background-modifier-accent) !important;
