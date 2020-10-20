@@ -138,8 +138,17 @@
 }
 
 
+/* Auditlog */
+.auditLog-3jNbM6 {
+    background-color: var(--background-secondary) !important;
+    border-color: var(--background-tertiary) !important;
+}
+.auditLog-3jNbM6 > .headerExpanded-CUEwZ5 {
+    background-color: var(--background-tertiary) !important;
+}
+
+
 /* Other Server Settings */
-.auditLog-3jNbM6,
 .member-1q7VfX::before,
 .inviteSettingsInviteRow-3p2O-N::before {
     background-color: var(--background-secondary) !important;
