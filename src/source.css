@@ -141,6 +141,29 @@
 }
 
 
+/* Server Boost Page */
+.perksModal-fSYqOq {
+    background-color: var(--background-primary) !important;
+    color: white;
+}
+.tierHeaderLocked-1s2JJz {
+    background-color: var(--background-tertiary) !important;
+}
+.tierIcon-2qSKGj > path,
+.tierLock-3CSxSX > path,
+.tierTitle-y7BLPl,
+.tierRequirements-dGesMA {
+    color: white;
+    fill: white !important;
+}
+.tierBody-16Chc9 {
+    background-color: var(--background-secondary-alt) !important;
+}
+.perks-3OsGy8 > .perk-2WeBWW {
+    background-color: var(--background-tertiary) !important;
+}
+
+
 /* User Modals */
 .headerNormal-T_seeN {
     background-color: var(--background-tertiary) !important;
@@ -249,12 +272,20 @@
     background-color: var(--background-primary) !important;
 }
 
-
 .quickswitcher-3JagVE {
     box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
 }
 .quickswitcher-3JagVE > .input-2VB9rf {
     background-color: var(--channeltextarea-background)
+}
+
+
+/* Gift Codes/Game Store Pages */
+.embedHorizontal-WknQ2- > .description-1RsfgZ {
+    background-color: var(--background-tertiary)
+}
+.embedHorizontal-WknQ2- > .media-gfq_4j > .invalidPoop-pnUbq7 {
+    background-color: var(--background-secondary)
 }
 
 
