@@ -138,7 +138,7 @@
 }
 
 
-/* Auditlog */
+/* Auditlog Page */
 .auditLog-3jNbM6 {
     background-color: var(--background-secondary) !important;
     border-color: var(--background-tertiary) !important;
@@ -193,6 +193,21 @@
 .connectedAccounts-repVzS > .connectedAccount-36nQx7 {
     background-color: var(--background-tertiary);
     border-color: var(--background-modifier-accent)
+}
+
+
+/* Add a Role */
+[aria-label="Add Role"] > .autocompleteShadow-iiGWFU {
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, .2), 0 0 0 1px var(--background-tertiary);
+}
+.autocompleteArrowWrapper-3Z7OuM + .header-2bNvm4 {
+    background-color: var(--background-tertiary);
+}
+[aria-label="Add Role"] > .sectionTag-pXyto9 {
+    background-color: var(--background-secondary-alt) !important;
+}
+[aria-label="Add Role"] > .autocompleteArrowWrapper-3Z7OuM > .autocompleteArrow-Zxoy9H {
+    background-color: var(--background-tertiary) !important;
 }
 
 
