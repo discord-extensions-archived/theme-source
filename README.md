@@ -1,8 +1,13 @@
 # Theme Source(dev)
-This is currently a WIP, but basically it's something that can be used to change the base colors of Discord with no issue. 
+This is currently a WIP, but basicallt it's something that allows you to change the base colors of Discord without hassle. The main purpose of this is for new theme developerrs (like my self) to have easy access to change colors of Discord.
+
+
+## Issues and Pull Requests
+Since this obviously a WIP, there are going to be issues with it. Some things may be unthemed, or something may not be themed correctly, who knows? If you find something along these lines, you can make an issue pointing it out, or you can make a pull request fixing said issue.
+
 
 ## Varibles for Noobs™️
-**ANYTHING HIGHLIGHTED IN RED IS INCLUDED IN THAT VARIABLE**
+**Anything that is shown in red is what the variable changes**
 
 
 <details>
