@@ -7,7 +7,7 @@ Since this obviously a WIP, there are going to be issues with it. Some things ma
 
 
 ## Varibles for Noobs™️
-**Anything that is shown in red is what the variable changes**
+**Anything that is shown in red is what the variable changes.**
 
 
 <details>
@@ -184,3 +184,6 @@ The drop shadow that appears behind certain modals.
 
 ![](https://media.discordapp.net/attachments/761659752446689280/767968776049393704/unknown.png?width=1120&height=630)
 </details>
+
+# Credits
+ty Snapperito for making the varaibles information thing
