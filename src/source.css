@@ -193,6 +193,19 @@
 }
 
 
+/* Store Page */
+.applicationStore-1pNvnv > div > .scroller-1JpcIc {
+    background-color: var(--background-primary) !important;
+}
+.scroller-1JpcIc > .listing-2nUQ4d > .listingLarge-3Rix7u > div > .leftColumn-1scUu2 > .root-1bFE0x,
+.features-_IOqVv > .row-1bU71H {
+    background-color: var(--background-secondary) !important;
+}
+.purchaseUnit-2lxci3 > .bodySection-jqkkIP {
+    background-color: var(--background-tertiary) !important;
+}
+
+
 /* Auotcomplete */
 .autocomplete-1vrmpx {
     background-color: var(--background-secondary) !important;
