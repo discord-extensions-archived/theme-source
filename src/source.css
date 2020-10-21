@@ -357,12 +357,16 @@
 }
 
 
-/* Gift Codes/Game Store Pages */
+/* Codes/Game Store Pages/Spotify Listen */
 .embedHorizontal-WknQ2- > .description-1RsfgZ {
     background-color: var(--background-tertiary)
 }
 .embedHorizontal-WknQ2- > .media-gfq_4j > .invalidPoop-pnUbq7 {
     background-color: var(--background-secondary)
+}
+.invite-18yqGF {
+    background-color: var(--background-secondary) !important;
+    border-color: var(--background-secondary-alt) !important;
 }
 
 
