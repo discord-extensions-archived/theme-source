@@ -329,11 +329,15 @@
 }
 .option-96V44q.selected-rZcOL- {
     background-color: var(--background-modifier-hover) !important;
-
 }
 .option-96V44q::after {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 90%) !important
+    background: transparent !important
 }
+.option-96V44q.selected-rZcOL-::before {
+    background: var(--background-secondary-alt) !important;
+    padding-left: 10px
+}
+
 .react-datepicker,
 .react-datepicker__header {
     background-color: var(--background-secondary) !important;
