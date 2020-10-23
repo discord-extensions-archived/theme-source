@@ -1,9 +1,9 @@
 # Theme Source (dev)
-This is currently a WIP, but basically it's something that gives you the ability to change the base colors of Discord without issue. Some things may be **intentionally**  themeed differenatly than the way Discord themes them (cause it "looks better"). The main purpose of Theme Source is for new theme devs who want easy access to changing Discord's base colors, like myself. There is no need for crediting for the use of this, since it's something that just changes the base colors, but if you want to you can :^)
+This is currently a WIP, don't expect everything to be be themed properly/perfectly *yet (or ever tbh)*. Some things may **inentionally** be themed differently than the way Discord themes it, either because it "looks better", I got lazy or there was no better way I could figure out how to theme it. The main purpose of Theme Source is for new theme devs (like myself) to have easy access to changing all of Discord's base colors, either because they're too lazy to make their own source or they don't know how to properly yet??? idk. If you use this, there is no need to give me credit since this is something that just changes the base colors. However, you are still free to if you want to. :^)
 
 
 ## Issues and Pull Requests
-Since this obviously a WIP, there are going to be issues with it. Some things may be unthemed, or something may not be themed correctly, who knows? If you find something along these lines, you can make an issue pointing it out, or you can make a pull request fixing said issue.
+Since this is a VIP, there are going to be issues with it. Some things may be unthemed, something may not be themed correctly (read above first), or a Discord update broke some element, who knows? If you find something along these lines, you can make an issue that points it out (screenshots if you can), or make your are welcom to make a pull request fixing said issue yourself.
 
 
 ## Varibles for Noobs™️
