@@ -28,7 +28,8 @@
 .css-gvi9bl-control,
 .codeRedemptionInput-3JOJea,
 .container-1nZlH6.hasValue-3pdcdm,
-.container-CpszHS.container-1nZlH6 {
+.container-CpszHS.container-1nZlH6,
+.inputDefault-_djjkz.input-cIJ7To {
     background-color: var(--background-secondary) !important;
 }
 .css-6fzn47-control {
@@ -68,7 +69,8 @@
 .root-1gCeng.fullscreenOnMobile-1bD22y:not(.modal-qgFCbT) {
     background-color: var(--background-primary) !important;
 }
-.fullscreenOnMobile-1bD22y:not(.modal-qgFCbT) {
+.fullscreenOnMobile-1bD22y:not(.modal-qgFCbT),
+.modal-yWgWj-.modal-2VIBV8 {
     background-color: var(--background-primary) !important;
     box-shadow: 0 0 0 1px var(--background-secondary), 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
 }
