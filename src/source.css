@@ -63,7 +63,6 @@
 }
 
 
-
 /* Popout Modals */
 .modalSize-cqUaws.root-1gCeng,
 .root-1ANs48,
@@ -115,12 +114,14 @@
 
 
 /* Subscription Setting Tab */
-.detailsBlock-FoDTGA > div > div > button {
+.detailsBlock-FoDTGA > div > div > button,
+.featureChildrenWrapper-smz30S > .stickerImageSection-7EUs8E\{
     background-color: var(--background-secondary-alt) !important;
 }
 .featureGrid-3-fNl- > .feature-2w65J5 {
     background-color: var(--background-secondary);
 }
+
 
 
 /* Voice and Video Setting Tab  */
