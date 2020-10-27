@@ -409,3 +409,6 @@
 .notificationSettings-1NQKPR > div > .wrapper-3jrx9n > .option-n0icdO:not(.selected-mKYnfr) {
     background-color: var(--background-modifier-accent);
 }
+.scroller-3__pG8 {
+    background: var(--background-primary) !important
+}
