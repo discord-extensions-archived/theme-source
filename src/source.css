@@ -412,3 +412,10 @@
 .scroller-3__pG8 {
     background: var(--background-primary) !important
 }
+
+.reactors-Blmlhw {
+   background-color: var(--background-secondary-alt) !important;
+}
+[style="overflow: hidden scroll; padding-right: 0px;"]:not(.reactors-Blmlhw) {
+   background-color: var(--backgruond-tertiary) !important;
+}
