@@ -416,6 +416,6 @@
 .reactors-Blmlhw {
    background-color: var(--background-secondary-alt) !important;
 }
-[style="overflow: hidden scroll; padding-right: 0px;"]:not(.reactors-Blmlhw) {
+.modal-yWgWj- > [style="overflow: hidden scroll; padding-right: 0px;"]:not(.reactors-Blmlhw) {
    background-color: var(--background-tertiary) !important;
 }
