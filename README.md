@@ -5,7 +5,7 @@ This is currently a work in progress, don't expect everything to be themed perfe
 
 
 ## Issues and Pull Requests
-Since this is a VIP, there are going to be issues with it. Some things may be unthemed, something may not be themed correctly (read above first), or a Discord update broke some element, who knows? If you find something along these lines, you can make an issue that points it out (screenshots if you can), or make your are welcom to make a pull request fixing said issue yourself.
+Since this is a work in progress, there *are* going to be issues with it. Some things may be unthemed, not themed correctly, or a Discord update changed an element, who knows? Anyways, if you find something along these lines, you can make an issue request that points it out (screenshots if possible), or you are welcome to make a pull request fixing said issue yourself.
 
 
 ## Varibles for Noobs™️
