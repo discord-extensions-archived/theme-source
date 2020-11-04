@@ -1,7 +1,7 @@
 {
     "name": "Theme-Source",
     "description": "A source to change Discord's base colors.",
-    "version": "1.0.0dev",
+    "version": "2.0.0dev",
     "author": "LuckFire#4800",
     "theme": "index.css",
     "consent": "false",
