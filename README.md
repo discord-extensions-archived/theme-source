@@ -1,3 +1,6 @@
+# v2
+working on v2 if anyone is reading this yes it should be better big pogs
+
 # Theme Source (dev)
 This is a WIP, don't expect everything to be themed perfectly yet (or ever). Some things may **intentionally** themed differently than the way Discord themes it, either because I thought it "looked better", I got lazy, or there was no better way I could figure out how to theme it. The main purpose of Theme Source is for new theme devs (like myself) to have easy access to changing all of Discord's base colors, since just using the :root themes part of it. I don't really recommend using this, cause there's probably better ways to do this (and this is my first attempt at themeing Discord like this), and it's better if you use your own work. You *can* use this still, I don't really reccommend it cause you're better off learning how to do it yourself. You can look at the source for help if needed. If you do use this, no need to credit.
 
