@@ -5,8 +5,10 @@ This is currently a work in progress, don't expect everything to be themed perfe
 
 
 If you're just looking for a something that recolors better or a custom theme, I recommend using Discord Source for better rercolors and Theme Generator for custom themes. (Both made by DevilBro).
-### Discord Source: https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/
-### Theme Generator: https://0x71.cc/bd/theme/
+
+**Discord Source:** https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/
+
+**Theme Generator:** https://0x71.cc/bd/theme/
 
 
 ## Issues and Pull Requests
