@@ -4,6 +4,11 @@ The main purpose of Theme Source is for new theme devs (such as myself) to have 
 This is currently a work in progress, don't expect everything to be themed perfectly/properly yet (or ever idk). Some things will be either **intentionally themed differently**, or not themed properly because I couldn't figure out a good way to theme it. I don't recommend that you use this, mainly cause there are probably better ways to do this (and this is my first attempt at themeing Discord in such a way), and it's just better that you use your own work in general and learn yourself. You *are still allowed* to use this, I just don't recommend it. Everything is sorted so if you want to use it as reference, feel free to. If you do use this, no need to credit.
 
 
+If you're just looking for a something that recolors better or a custom theme, I recommend using Discord Source for better rercolors and Theme Generator for custom themes. (Both made by DevilBro).
+### Discord Source: https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/
+### Theme Generator: https://0x71.cc/bd/theme/
+
+
 ## Issues and Pull Requests
 Since this is a work in progress, there *are* going to be issues with it. Some things may be unthemed, not themed correctly, or a Discord update changed an element, who knows? Anyways, if you find something along these lines, you can make an issue request that points it out (screenshots if possible), or you are welcome to make a pull request fixing said issue yourself.
 
