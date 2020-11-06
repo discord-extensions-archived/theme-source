@@ -51,6 +51,10 @@
     background-color: var(--background-secondary-alt) !important;
 }
 
+.contentWrapper-3WC1ID { /* Invite Splash */
+    background-color: var(--background-secondary-alt) !important;
+}
+
 .userPopout-3XzG_A { /* User Modal and Popouts */
     box-shadow: 0 2px 10px 0 rgba(0,0,0,.2), 0 0 0 1px var(--background-secondary);
 }
