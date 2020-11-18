@@ -411,3 +411,8 @@
     background-color: var(--background-primary);
     box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0,0,0,.2);
 }
+
+.applicationStreamingPreviewSize-3NIvhL, /* Streaming */
+.previewImage-RxVzkZ {
+   background-color: var(--background-secondary-alt);
+}
