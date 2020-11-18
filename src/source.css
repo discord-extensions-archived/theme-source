@@ -250,6 +250,13 @@
     border-color: var(--background-secondary) !important;
 }
 
+.group-2dAfBy > .box-gRofIO { /* Permissions Changer */
+    border-color: var(--background-tertiary)
+}
+.group-2dAfBy > .passthroughSelected-1Eq0Kl {
+    background-color: var(--background-modifier-selected);
+}
+
 
 /* Message Search and Quickswitcher */
 .searchFilter-2ESiM3, /* Message Search */
