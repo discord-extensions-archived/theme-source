@@ -147,8 +147,12 @@
     border-color: var(--background-tertiary) !important;
 }
 
-.subscriptionDetails-1dUmjl ~ .featureGrid-3-fNl- > .feature-2w65J5 { /* Nitro Features */
-    background-color: var(--background-secondary);
+.subscriptionDetails-1dUmjl ~ .featureGrid-3-fNl- > .feature-2w65J5 { /* Features */
+    background-color: var(--background-secondary-alt);
+}
+
+.stickerImageSection-7EUs8E { /* Stickers */
+    background-color: var(--background-secondary) !important;
 }
 
 .media-engine-video ~ .previewOverlay-2O7_KC { /* Camera Preview */
