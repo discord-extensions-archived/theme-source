@@ -10,14 +10,14 @@
 }
 
 
-/* All/Unsorted Popouts and Modals */
 .modal-1k91nT.root-1gCeng,
 .modalSize-cqUaws.root-1gCeng,
 .modalRoot-1Kx4Hb.root-1gCeng,
 .main-3auUui.root-1gCeng,
 .modalRoot-LW89o7.root-1gCeng,
 .modal-yWgWj-.fullscreenOnMobile-1aglG_,
-.root-1gCeng.small-3iVZYw { /* All Modals */
+.root-1gCeng.small-3iVZYw,
+.root-1gCeng.medium-2RE1hE { /* All Modals */
     background-color: var(--background-primary);
     box-shadow: 0 0 0 1px var(--background-secondary), 0 2px 10px 0 rgba(0, 0, 0, .2);
 }
@@ -31,7 +31,9 @@
 .modalRoot-1Kx4Hb.root-1gCeng > .footer-2gL1pp,
 .modalRoot-LW89o7.root-1gCeng > .footer-2gL1pp,
 .modal-yWgWj-.fullscreenOnMobile-1aglG_ > .footer-2gL1pp,
-.root-1gCeng.small-3iVZYw > .footer-2gL1pp {
+.root-1gCeng.small-3iVZYw > .footer-2gL1pp,
+.root-1gCeng.medium-2RE1hE > .footer-2gL1pp,
+.root-1gCeng.medium-2RE1hE > .modal-1O3czN > .footer-2gL1pp {
     background-color: var(--background-tertiary);
     box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, .2);
 }
@@ -64,6 +66,16 @@
 .userPopout-3XzG_A > .body-3iLsc4,
 .userPopout-3XzG_A > .footer-1fjuF6 {
     background-color: var(--background-secondary);
+}
+
+.phoneFieldPopout-7PzjOO { /* Add a Phone Number */
+    background-color: var(--background-primary) !important;
+    box-shadow: 0 2px 10px 0 rgba(0,0,0,.2), 0 0 0 1px var(--background-secondary);
+}
+
+.regionSelectPopout-p9-0_W { /* Call Region Selector */
+    background-color: var(--background-primary) !important;
+    box-shadow: 0 2px 10px 0 rgba(0,0,0,.2), 0 0 0 1px var(--background-secondary);
 }
 
 .container-VSDcQc > .header-2bNvm4 { /* Add Role */
@@ -131,10 +143,12 @@
 
 
 /* Dropdowns */
-.css-gvi9bl-control {
+.css-gvi9bl-control,
+.css-6fzn47-control {
     border-color: var(--background-tertiary);
 }
-.css-3vaxre-menu {
+.css-3vaxre-menu,
+.css-dwar6a-menu {
     background-color: var(--background-secondary);
     box-shadow: var(--background-tertiary) 0px 1px 5px 0px;
     border-color: var(--background-tertiary);
@@ -407,6 +421,12 @@
     background-color: var(--background-primary) !important;
 }
 
+.css-12hk9yc-control,
+.css-1adxh11-control,
+.css-ix84ef-menu {
+    background-color: var(--background-tertiary);
+}
+
 
 /* Auotcomplete */
 .autocomplete-1vrmpx {
@@ -417,6 +437,15 @@
 }
 .autocompleteRowVertical-q1K4ky > .base-1pYU8j > .divider-23swzi {
     background-color: var(--background-secondary-alt) !important;
+}
+
+
+/* Voice Call Buttons */
+.primaryDark-3mSFDl.button-38aScr {
+    background-color: var(--background-secondary) !important;
+}
+.contextMenuNub-3yOOYo.primaryDark-3mSFDl {
+    background-color: var(--background-secondary) !important;
 }
 
 
@@ -458,4 +487,12 @@
 
 .friend-3KALPe.friendSelected-1sa4bG { /* Friend Selected */
     background-color: var(--background-modifier-selected);
+}
+
+.result-3w1ZcL[style*="background-color: rgb(24, 25, 28);"] { /* Loading Gifs */
+    background-color: var(--background-tertiary) !important;
+}
+
+.imageWrapper-2p5ogY.embedWrapper-lXpS3L > .wrapper-2TxpI8 { /* Video Backgrounds */
+    background-color: var(--background-tertiary);
 }
