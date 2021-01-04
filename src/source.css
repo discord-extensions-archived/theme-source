@@ -497,3 +497,7 @@
 .imageWrapper-2p5ogY.embedWrapper-lXpS3L > .wrapper-2TxpI8 { /* Video Backgrounds */
     background-color: var(--background-tertiary);
 }
+
+.categoryHeader-O1zU94 { /* Slash Command */
+    background-color: var(--background-tertiary);
+}
