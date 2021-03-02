@@ -1,3 +1,6 @@
+# yet ANOTHER recode coming soon:tm:
+due to inactivity and me doing the brain gain, i shall recode this sometime in the future to be better! thank you goodnight
+
 # Theme Source (dev)
 The main purpose of Theme Source is for new theme devs (such as myself) to have easy access to changing all of Discord's base colors, since using just :root{} will only theme it partically.
 
