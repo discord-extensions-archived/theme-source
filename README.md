@@ -1,4 +1,4 @@
-![Banner](./assets/banner.png)
+![Banner](./assets/banner-temp.png)
 
 # Theme Source
 A simple source to change Discord's colors.
