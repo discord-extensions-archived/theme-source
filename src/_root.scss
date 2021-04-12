@@ -1,30 +1,39 @@
-@import url("https://raw.githack.com/LuckFire/Theme-Source/main/src/source.css");
-
 :root {
-    --header-primary: #fff;
-    --header-secondary: #b9bbbe;
-    --text-normal: #dcddde;
-    --text-muted: #72767d;
-    --text-link: #00b0f4;
-    --channels-default: #8e9297;
-    --interactive-normal: #b9bbbe;
-    --interactive-hover: #dcddde;
-    --interactive-active: #fff;
-    --interactive-muted: #4f545c;
+    // base
+    --blurple-replace: #7289da;
     --background-primary: #36393f;
     --background-secondary: #2f3136;
     --background-tertiary: #202225;
     --background-accent: #4f545c;
     --background-floating: #18191c;
+    --userarea-background: var(--background-tertiary);
+    --header-primary: #fff;
+    --header-secondary: #b9bbbe;
+    --elevation-low: 0 1px 0 rgba(4, 4, 5, 0.2), 0 1.5px 0 rgba(6, 6, 7, 0.05), 0 2px 0 rgba(4, 4, 5, 0.05);
+    --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
+    --channels-default: #8e9297;
+    --channeltextarea-background: #40444b;
+    --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+    --activity-card-background: #202225;
+
+    // interactive
+    --interactive-normal: #b9bbbe;
+    --interactive-hover: #dcddde;
+    --interactive-active: #fff;
+    --interactive-muted: #4f545c;
+
+    // bg modifiers 
     --background-modifier-hover: rgba(79, 84, 92, 0.16);
     --background-modifier-active: rgba(79, 84, 92, 0.24);
     --background-modifier-selected: rgba(79, 84, 92, 0.32);
     --background-modifier-accent: hsla(0, 0%, 100%, 0.06);
-    --elevation-low: 0 1px 0 rgba(4, 4, 5, 0.2), 0 1.5px 0 rgba(6, 6, 7, 0.05), 0 2px 0 rgba(4, 4, 5, 0.05);
-    --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
-    --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
-    --channeltextarea-background: #40444b;
-    --activity-card-background: #202225;
+
+    // text
+    --text-link: #00b0f4;
+    --text-normal: #dcddde;
+    --text-muted: #72767d;
+
+    // deprecated - old, unused stuffs
     --deprecated-panel-background: #292b2f;
     --deprecated-card-bg: rgba(32, 34, 37, 0.6);
     --deprecated-card-editable-bg: rgba(32, 34, 37, 0.3);
@@ -36,4 +45,9 @@
     --deprecated-text-input-border-hover: #040405;
     --deprecated-text-input-border-disabled: #202225;
     --deprecated-text-input-prefix: #dcddde
+
+    // scuffed transparency 
+    --background-accent-1: rgb(80, 85, 94, 0.1);
+    --background-accent-3: rgb(80, 85, 94, 0.3);
+    --background-floating-2: rgba(24, 25, 28, 0.2);
 }

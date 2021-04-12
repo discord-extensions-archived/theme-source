@@ -1,0 +1,369 @@
+:root {
+    --jcs-background-primary: var(--background-primary);
+    --jcs-background-secondary: var(--background-secondary);
+    --jcs-background-secondary-alt: var(--background-secondary-alt);
+    --jcs-background-tertiary: var(--background-tertiary);
+    --jcs-text-normal: var(--text-normal);
+    --jcs-header-primary: var(--header-primary);
+    --jcs-header-secondary: var(--header-secondary);
+    --jcs-background-modifier-accent: var(--background-modifier-accent);
+    --jcs-background-modifier-hover: var(--background-modifier-hover);
+    --jcs-deprecated-text-input-bg: var(--deprecated-text-input-bg);
+    --jcs-deprecated-text-input-border: var(--deprecated-text-input-border);
+}
+
+#app-mount .title-3qD0b- .searchFilter-2ESiM3,
+#app-mount .title-3qD0b- .searchAnswer-3Dz2-q {
+    background-color: var(--background-primary);
+}
+
+#app-mount .panels-j1Uci_ {
+    background-color: var(--userarea-background);
+}
+
+#app-mount .scrollerBase-289Jih.disableScrollAnchor-3V9UtP::-webkit-scrollbar-thumb, #app-mount .scrollerBase-289Jih.auto-Ge5KZx::-webkit-scrollbar-thumb {
+    background-color: var(--background-tertiary);
+}
+#app-mount .scrollerBase-289Jih.disableScrollAnchor-3V9UtP::-webkit-scrollbar-track, #app-mount .scrollerBase-289Jih.auto-Ge5KZx::-webkit-scrollbar-track {
+    background-color: var(--background-secondary);
+}
+#app-mount .scrollerBase-289Jih.thin-1ybCId::-webkit-scrollbar-thumb {
+    background-color: var(--background-secondary-alt);
+}
+#app-mount .rolesList-22qj2L::-webkit-scrollbar-thumb {
+    background-color: var(--background-tertiary);
+}
+
+#app-mount .invite-18yqGF {
+    background-color: var(--background-secondary-6);
+    border-color: var(--background-secondary);
+}
+#app-mount .tile-2OwFgW {
+    background-color: var(--background-tertiary);
+}
+#app-mount .tile-2OwFgW:hover {
+    background-color: var(--background-floating);
+}
+#app-mount .spoilerText-3p6IlD {
+    background-color: var(--background-tertiary);
+}
+
+#app-mount .root-1gCeng:not(.popout-103y-5) {
+    background-color: var(--background-primary);
+    box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
+#app-mount .root-1gCeng:not(.popout-103y-5) .header-1TKi98.separator-2-RRj_ {
+    box-shadow: 0 1px 0 0 var(--background-tertiary), 0 1px 2px 0 rgba(24, 25, 28, 0.3);
+}
+#app-mount .root-1gCeng:not(.popout-103y-5) .footer-2gL1pp {
+    background-color: var(--background-secondary);
+    box-shadow: inset 0 1px 0 var(--background-tertiary);
+}
+
+#app-mount .theme-light .root-1gCeng {
+    background-color: var(--jcs-background-primary);
+    box-shadow: 0 0 0 1px var(--jcs-background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
+#app-mount .theme-light .root-1gCeng .colorStandard-2KCXvj {
+    color: var(--jcs-text-normal);
+}
+#app-mount .theme-light .root-1gCeng .colorHeaderPrimary-26Jzh- {
+    color: var(--jcs-header-primary);
+}
+#app-mount .theme-light .root-1gCeng .colorHeaderSecondary-3Sp3Ft {
+    color: var(--jcs-header-secondary);
+}
+#app-mount .theme-light .root-1gCeng .lookBlank-3eh9lL div,
+#app-mount .theme-light .root-1gCeng .lookLink-9FtZy- div {
+    color: var(--jcs-text-normal);
+}
+#app-mount .theme-light .root-1gCeng .scrollerBase-289Jih::-webkit-scrollbar-thumb {
+    background-color: var(--jcs-background-secondary-alt);
+}
+#app-mount .theme-light .root-1gCeng .container-UC8Ug1 {
+    background-color: var(--jcs-background-primary);
+    border: 1px solid var(--jcs-background-modifier-accent);
+}
+#app-mount .theme-light .root-1gCeng .container-UC8Ug1:hover {
+    background-color: var(--jcs-background-modifier-hover);
+    border: 1px solid var(--jcs-background-modifier-accent);
+}
+#app-mount .theme-light .root-1gCeng .inputWrapper-31_8H8.input--jS-j2 {
+    background-color: var(--jcs-background-tertiary);
+    border-radius: 3px;
+}
+#app-mount .theme-light .root-1gCeng .sampleLink-2NLvZg {
+    color: var(--jcs-header-primary);
+}
+#app-mount .theme-light .root-1gCeng .input-cIJ7To {
+    background-color: var(--jcs-deprecated-text-input-bg);
+    color: var(--jcs-text-normal);
+    border: 1px solid var(--jcs-deprecated-text-input-border);
+}
+#app-mount .theme-light .root-1gCeng .footer-2gL1pp {
+    background-color: var(--jcs-background-secondary);
+    box-shadow: inset 0 1px 0 var(--jcs-background-tertiary);
+}
+
+#app-mount .keyboardShortcutsModal-3piNz7 {
+    background-color: var(--background-primary);
+}
+#app-mount .keyboardShortcutsModal-3piNz7 .modalTitle-37O4n6 {
+    color: var(--header-primary);
+}
+#app-mount .keyboardShortcutsModal-3piNz7 .modalSubtitle-1Pj5nv {
+    color: var(--text-normal);
+    opacity: 0.8;
+}
+#app-mount .keyboardShortcutsModal-3piNz7 .keybindGroup--6Qp-w .keybindDescription-2RDbC2 {
+    color: var(--header-secondary);
+    opacity: 0.9;
+}
+
+#app-mount .content-1LAB8Z .message-2qRu38 {
+    background-color: var(--background-primary);
+    box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+#app-mount .quickswitcher-3JagVE .input-2VB9rf {
+    background-color: var(--background-modifier-accent);
+}
+
+#app-mount .container-1If-HZ.root-1gCeng .scroller-1-nKid {
+    background-color: var(--background-secondary);
+}
+#app-mount .container-1If-HZ.root-1gCeng .scroller-1-nKid .reactionSelected-1pqISm {
+    background-color: var(--background-accent-3);
+}
+#app-mount .container-1If-HZ.root-1gCeng .scroller-1-nKid .reactionDefault-GBA58K:hover {
+    background-color: var(--background-accent-1);
+}
+#app-mount .container-1If-HZ.root-1gCeng .reactors-Blmlhw {
+    background-color: var(--background-primary);
+}
+#app-mount .container-1If-HZ.root-1gCeng .reactors-Blmlhw .reactor-3UBcOI {
+    box-shadow: inset 0 -1px 0 var(--background-accent-3);
+}
+
+#app-mount .uploadModal-2ifh8j {
+    background-color: var(--background-primary);
+    box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
+#app-mount .uploadModal-2ifh8j .footer-3mqk7D {
+    background-color: var(--background-secondary);
+    box-shadow: inset 0 1px 0 var(--background-tertiary);
+}
+
+#app-mount .tabBody-3YRQ8W .peopleColumn-29fq28 {
+    background-color: var(--background-primary);
+}
+#app-mount .tabBody-3YRQ8W .nowPlayingColumn-2sl4cE .itemCard-v9viV7:hover {
+    background-color: var(--background-tertiary);
+}
+#app-mount .tabBody-3YRQ8W .nowPlayingColumn-2sl4cE .itemCard-v9viV7 .body-1ld4H7 {
+    background-color: var(--background-secondary);
+}
+
+#app-mount .installationPath-3cStrB {
+    box-shadow: 0 1px 0 0 var(--background-accent);
+}
+#app-mount .hiddenLibraryApplication-T6N3U1 {
+    border-bottom-color: var(--background-accent-3);
+}
+#app-mount .hiddenLibraryApplication-T6N3U1::before {
+    background-color: var(--background-secondary);
+    border-color: var(--background-tertiary);
+}
+
+#app-mount .perksModal-fSYqOq {
+    background-color: var(--background-primary);
+}
+#app-mount .perksModal-fSYqOq .tierMarkerBackground-3q29am {
+    background-color: var(--background-primary);
+}
+#app-mount .perksModal-fSYqOq .barBackground-2EEiLw, #app-mount .perksModal-fSYqOq .tierMarkerInProgress-24LMzJ {
+    background-color: var(--background-tertiary);
+}
+#app-mount .perksModal-fSYqOq .tierHeaderLocked-1s2JJz.tierHeader---JJFb {
+    background-color: var(--background-floating);
+}
+#app-mount .perksModal-fSYqOq .tierBody-16Chc9 {
+    background-color: var(--background-tertiary);
+}
+#app-mount .perksModal-fSYqOq .perks-3OsGy8 li {
+    background-color: var(--background-secondary);
+}
+
+#app-mount .applicationStore-1pNvnv .scroller-1JpcIc {
+    background-color: var(--background-primary);
+}
+#app-mount .applicationStore-1pNvnv .purchaseUnit-2lxci3 .bodySection-jqkkIP {
+    background-color: var(--background-tertiary);
+}
+#app-mount .applicationStore-1pNvnv .purchaseUnit-2lxci3 .label-13UUcd {
+    color: var(--text-muted);
+}
+
+#app-mount .autocomplete-1vrmpx {
+    background-color: var(--background-secondary);
+}
+#app-mount .autocomplete-1vrmpx .categoryHeader-O1zU94 {
+    background-color: var(--background-secondary);
+}
+#app-mount .autocomplete-1vrmpx .base-1pYU8j.selected-1Tbx07 {
+    background-color: var(--background-primary);
+}
+
+#app-mount .css-3vaxre-menu {
+    background-color: var(--background-secondary);
+    border-color: var(--background-tertiary);
+}
+
+#app-mount .colorPickerCustom-2CWBn2 {
+    background-color: var(--background-primary);
+    border-color: var(--background-tertiary);
+}
+
+#app-mount .calendarPicker-2yf6Ci .react-datepicker {
+    background-color: var(--background-primary);
+}
+#app-mount .calendarPicker-2yf6Ci .react-datepicker .react-datepicker__navigation {
+    border-color: var(--background-floating);
+}
+#app-mount .calendarPicker-2yf6Ci .react-datepicker .react-datepicker__header {
+    background-color: var(--background-primary);
+    border-color: var(--background-floating-2);
+}
+#app-mount .calendarPicker-2yf6Ci .react-datepicker .react-datepicker__header .react-datepicker__current-month {
+    border-bottom-color: var(--background-floating-2);
+}
+#app-mount .calendarPicker-2yf6Ci .react-datepicker .react-datepicker__day {
+    border-top-color: var(--background-floating);
+    border-left-color: var(--background-floating);
+}
+#app-mount .calendarPicker-2yf6Ci .react-datepicker .react-datepicker__day--outside-month,
+#app-mount .calendarPicker-2yf6Ci .react-datepicker .react-datepicker__day--disabled {
+    background-color: var(--background-secondary);
+}
+
+#app-mount .popout-103y-5 {
+    background-color: var(--background-primary);
+    box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
+#app-mount .popout-103y-5 .friendSelected-1sa4bG {
+    background-color: var(--background-modifier-selected);
+}
+
+#app-mount .container-3ayLPN#search-results {
+    background-color: var(--background-secondary);
+    box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
+#app-mount .container-3ayLPN#search-results .focused-2bY0OD {
+    background-color: var(--background-secondary);
+}
+#app-mount .container-3ayLPN#search-results .option-96V44q::after {
+    background: transparent;
+}
+#app-mount .container-3ayLPN#search-results .option-96V44q.selected-rZcOL- {
+    background-color: var(--background-tertiary);
+}
+#app-mount .container-3ayLPN#search-results .option-96V44q.selected-rZcOL-::before {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0), var(--background-tertiary) 80%);
+    padding-left: 10px;
+}
+#app-mount .container-3ayLPN#search-results .option-96V44q.selected-rZcOL-::after {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0), var(--background-tertiary) 50%);
+}
+
+#app-mount [data-list-id=now-playing-popout] .popout-38lTFE {
+    background-color: var(--background-floating);
+}
+#app-mount [data-list-id=now-playing-popout] .popout-38lTFE .memberListHeader-543n-J {
+    color: var(--header-secondary);
+    opacity: 0.89;
+}
+#app-mount [data-list-id=now-playing-popout] .popout-38lTFE .separator-XqIyoz {
+    background-color: var(--background-modifier-accent);
+}
+
+#app-mount .userPopout-3XzG_A {
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px var(--background-tertiary);
+}
+#app-mount .userPopout-3XzG_A .headerNormal-T_seeN {
+    background-color: var(--background-tertiary);
+}
+#app-mount .userPopout-3XzG_A .body-3iLsc4 {
+    background-color: var(--background-secondary);
+}
+#app-mount .userPopout-3XzG_A .footer-1fjuF6 {
+    background-color: var(--background-secondary);
+    border-color: var(--background-tertiary);
+}
+
+#app-mount [aria-label=GUILD_SETTINGS] .inputMini-2xQV9P {
+    background-color: var(--background-secondary);
+}
+#app-mount [aria-label=GUILD_SETTINGS] .auditLog-3jNbM6 {
+    color: var(--text-muted);
+    border-color: var(--background-tertiary);
+}
+#app-mount [aria-label=GUILD_SETTINGS] .auditLog-3jNbM6 .headerExpanded-CUEwZ5 {
+    background-color: var(--background-secondary-alt);
+}
+#app-mount [aria-label=GUILD_SETTINGS] .auditLog-3jNbM6 .header-GwIGlr:not(.headerExpanded-CUEwZ5), #app-mount [aria-label=GUILD_SETTINGS] .auditLog-3jNbM6 .changeDetails-bk98pu {
+    background-color: var(--background-secondary);
+}
+#app-mount [aria-label=GUILD_SETTINGS] .auditLog-3jNbM6 .divider-1pnAR2 {
+    background-color: var(--background-tertiary);
+}
+#app-mount [aria-label=GUILD_SETTINGS] .tierHeader-rlkkJd {
+    background-color: var(--background-tertiary);
+}
+#app-mount [aria-label=GUILD_SETTINGS] .tierHeader-rlkkJd .tierHeaderContent-2-YfvN {
+    color: var(--interactive-normal);
+}
+#app-mount [aria-label=GUILD_SETTINGS] .tierBody-x9kBBp {
+    background-color: var(--background-secondary);
+}
+#app-mount [aria-label=GUILD_SETTINGS] .card-FDVird::before {
+    background-color: var(--background-secondary);
+    border-color: var(--background-tertiary);
+}
+#app-mount [aria-label=GUILD_SETTINGS] .elevationHigh-1PneE4 {
+    background-color: var(--background-tertiary) !important;
+}
+
+#app-mount [aria-label=USER_SETTINGS] .stickerImageSection-7EUs8E {
+    background-color: var(--background-secondary);
+}
+#app-mount [aria-label=USER_SETTINGS] .gemIndicatorContainer-2jdECl {
+    background-color: var(--background-floating);
+}
+#app-mount [aria-label=USER_SETTINGS] .paymentPane-3bwJ6A {
+    background-color: var(--background-secondary);
+}
+#app-mount [aria-label=USER_SETTINGS] .paymentPane-3bwJ6A .paginator-166-09, #app-mount [aria-label=USER_SETTINGS] .paymentPane-3bwJ6A .bottomDivider-1K9Gao {
+    background-color: var(--background-secondary);
+}
+#app-mount [aria-label=USER_SETTINGS] .paymentPane-3bwJ6A .bottomDivider-1K9Gao {
+    border-bottom-color: var(--background-primary);
+}
+#app-mount [aria-label=USER_SETTINGS] .codeRedemptionRedirect-1wVR4b {
+    background-color: var(--background-secondary);
+    border-color: var(--background-tertiary);
+}
+#app-mount [aria-label=USER_SETTINGS] .previewOverlay-2O7_KC {
+    background-color: var(--background-secondary);
+    border-color: var(--background-tertiary);
+}
+#app-mount [aria-label=USER_SETTINGS] .game-1ipmAa.card-FDVird {
+    box-shadow: 0 1px 0 0 var(--background-modifier-accent);
+}
+#app-mount [aria-label=USER_SETTINGS] .game-1ipmAa.card-FDVird .removeGame-2JFGPn {
+    background-color: var(--background-primary);
+    box-shadow: 0 0 0 1px var(--background-tertiary), 0 1px 5px 0 rgba(0, 0, 0, 0.3);
+}
+#app-mount [aria-label=USER_SETTINGS] .card-FDVird::before {
+    background-color: var(--background-secondary);
+    border-color: var(--background-tertiary);
+}

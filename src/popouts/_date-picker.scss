@@ -1,0 +1,26 @@
+#app-mount .calendarPicker-2yf6Ci .react-datepicker {
+    background-color: var(--background-primary);
+
+    .react-datepicker__navigation {
+        border-color: var(--background-floating);
+    }
+
+    .react-datepicker__header {
+        background-color: var(--background-primary);
+        border-color: var(--background-floating-2);
+
+        .react-datepicker__current-month {
+            border-bottom-color: var(--background-floating-2);
+        }
+    }
+
+    .react-datepicker__day {
+        border-top-color: var(--background-floating);
+        border-left-color: var(--background-floating);
+    }
+
+    .react-datepicker__day--outside-month,
+    .react-datepicker__day--disabled {
+        background-color: var(--background-secondary);
+    }
+}

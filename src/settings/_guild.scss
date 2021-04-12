@@ -1,0 +1,44 @@
+#app-mount [aria-label="GUILD_SETTINGS"] {
+    // Emoji
+    .inputMini-2xQV9P {
+        background-color: var(--background-secondary);
+    }
+
+    // Aduit Log
+    .auditLog-3jNbM6 {
+        color: var(--text-muted);
+        border-color: var(--background-tertiary);
+
+        .headerExpanded-CUEwZ5 {
+            background-color: var(--background-secondary-alt);
+        }
+        .header-GwIGlr:not(.headerExpanded-CUEwZ5), .changeDetails-bk98pu {
+            background-color: var(--background-secondary);
+        }
+        .divider-1pnAR2 {
+            background-color: var(--background-tertiary);
+        }
+    }
+
+    // Server Boost Status
+    .tierHeader-rlkkJd {
+        background-color: var(--background-tertiary);
+        
+        .tierHeaderContent-2-YfvN {
+            color: var(--interactive-normal);
+        }
+    }
+    .tierBody-x9kBBp {
+        background-color: var(--background-secondary);
+    }
+
+    // Cards
+    .card-FDVird::before {
+        background-color: var(--background-secondary);
+        border-color: var(--background-tertiary);
+    }
+
+    .elevationHigh-1PneE4 {
+        background-color: var(--background-tertiary) !important;
+    }
+}

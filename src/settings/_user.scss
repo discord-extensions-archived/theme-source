@@ -1,0 +1,48 @@
+#app-mount [aria-label="USER_SETTINGS"] {
+    // Subscriptions
+    .stickerImageSection-7EUs8E {
+        background-color: var(--background-secondary);
+    }
+    .gemIndicatorContainer-2jdECl {
+        background-color: var(--background-floating);
+    }
+
+    // Billing
+    .paymentPane-3bwJ6A {
+        background-color: var(--background-secondary);
+
+        .paginator-166-09, .bottomDivider-1K9Gao {
+            background-color: var(--background-secondary);
+        }
+
+        .bottomDivider-1K9Gao {
+            border-bottom-color: var(--background-primary);
+        }
+    }
+    .codeRedemptionRedirect-1wVR4b {
+        background-color: var(--background-secondary);
+        border-color: var(--background-tertiary);
+    }
+
+    // Voice & Video
+    .previewOverlay-2O7_KC {
+        background-color: var(--background-secondary);
+        border-color: var(--background-tertiary);
+    }
+
+    // Game Activity
+    .game-1ipmAa.card-FDVird {
+        box-shadow: 0 1px 0 0 var(--background-modifier-accent);
+
+        .removeGame-2JFGPn {
+            background-color: var(--background-primary);
+            box-shadow: 0 0 0 1px var(--background-tertiary), 0 1px 5px 0 rgba(0, 0, 0, 0.3);
+        }
+    }
+
+    // Cards
+    .card-FDVird::before {
+        background-color: var(--background-secondary);
+        border-color: var(--background-tertiary);
+    }
+}

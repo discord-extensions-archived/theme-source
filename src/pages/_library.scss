@@ -1,0 +1,14 @@
+#app-mount {
+    .installationPath-3cStrB {
+        box-shadow: 0 1px 0 0 var(--background-accent);
+    }
+
+    .hiddenLibraryApplication-T6N3U1 {
+        border-bottom-color: var(--background-accent-3);
+
+        &::before {
+            background-color: var(--background-secondary);
+            border-color: var(--background-tertiary);
+        }
+    }
+}
