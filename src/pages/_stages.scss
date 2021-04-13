@@ -1,0 +1,11 @@
+:root {
+    --stage-background-primary: var(--background-primary);
+    --stage-background-tertiary: var(--background-tertiary);
+    --stage-background-floating: var(--background-floating);
+}
+
+#app-mount .callContainer-3UuV6S {
+    --background-primary: var(--stage-background-primary);
+    --background-tertiary: var(--stage-background-tertiary);
+    --background-floating: var(--stage-background-floating);
+}

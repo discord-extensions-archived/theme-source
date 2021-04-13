@@ -1,3 +1,9 @@
+# v1.0.1
+Themed some unthemed areas.
+- Themed Stages, you know that nice new beaned Discord feature? Had to do it a very scuffed way though, but it works!
+- Themed RTC connection, tho I couldn't really get it close to original cause it used some different colors that aren't used by variables to begin with. The graph may look off, nothing I can really do about that though.
+- Added a variable that was missing in the root and a missing semi-colon..oops.
+
 # v1.0.0
 Welp, third times a charm I guess? A lot has changed, so here's information on all of that.
 - Version has been reset to v1.0.0. This may not make sense at first, but because of the unncessary version jumps, I feel like this is a good idea. It'll also help me (and you guys) better keep track of updates. Technically, this *would* be v3, but as I said, unnecessary version jumps are big bad bad.

@@ -1,17 +1,3 @@
-:root {
-    --jcs-background-primary: var(--background-primary);
-    --jcs-background-secondary: var(--background-secondary);
-    --jcs-background-secondary-alt: var(--background-secondary-alt);
-    --jcs-background-tertiary: var(--background-tertiary);
-    --jcs-text-normal: var(--text-normal);
-    --jcs-header-primary: var(--header-primary);
-    --jcs-header-secondary: var(--header-secondary);
-    --jcs-background-modifier-accent: var(--background-modifier-accent);
-    --jcs-background-modifier-hover: var(--background-modifier-hover);
-    --jcs-deprecated-text-input-bg: var(--deprecated-text-input-bg);
-    --jcs-deprecated-text-input-border: var(--deprecated-text-input-border);
-}
-
 #app-mount .title-3qD0b- .searchFilter-2ESiM3,
 #app-mount .title-3qD0b- .searchAnswer-3Dz2-q {
     background-color: var(--background-primary);
@@ -58,6 +44,20 @@
 #app-mount .root-1gCeng:not(.popout-103y-5) .footer-2gL1pp {
     background-color: var(--background-secondary);
     box-shadow: inset 0 1px 0 var(--background-tertiary);
+}
+
+:root {
+    --jcs-background-primary: var(--background-primary);
+    --jcs-background-secondary: var(--background-secondary);
+    --jcs-background-secondary-alt: var(--background-secondary-alt);
+    --jcs-background-tertiary: var(--background-tertiary);
+    --jcs-text-normal: var(--text-normal);
+    --jcs-header-primary: var(--header-primary);
+    --jcs-header-secondary: var(--header-secondary);
+    --jcs-background-modifier-accent: var(--background-modifier-accent);
+    --jcs-background-modifier-hover: var(--background-modifier-hover);
+    --jcs-deprecated-text-input-bg: var(--deprecated-text-input-bg);
+    --jcs-deprecated-text-input-border: var(--deprecated-text-input-border);
 }
 
 #app-mount .theme-light .root-1gCeng {
@@ -158,7 +158,7 @@
     background-color: var(--background-primary);
 }
 #app-mount .tabBody-3YRQ8W .nowPlayingColumn-2sl4cE .itemCard-v9viV7:hover {
-    background-color: var(--background-tertiary);
+    background-color: var(--activity-card-background);
 }
 #app-mount .tabBody-3YRQ8W .nowPlayingColumn-2sl4cE .itemCard-v9viV7 .body-1ld4H7 {
     background-color: var(--background-secondary);
@@ -173,6 +173,18 @@
 #app-mount .hiddenLibraryApplication-T6N3U1::before {
     background-color: var(--background-secondary);
     border-color: var(--background-tertiary);
+}
+
+:root {
+    --stage-background-primary: var(--background-primary);
+    --stage-background-tertiary: var(--background-tertiary);
+    --stage-background-floating: var(--background-floating);
+}
+
+#app-mount .callContainer-3UuV6S {
+    --background-primary: var(--stage-background-primary);
+    --background-tertiary: var(--stage-background-tertiary);
+    --background-floating: var(--stage-background-floating);
 }
 
 #app-mount .perksModal-fSYqOq {
@@ -284,6 +296,20 @@
 }
 #app-mount [data-list-id=now-playing-popout] .popout-38lTFE .separator-XqIyoz {
     background-color: var(--background-modifier-accent);
+}
+
+#app-mount .container-2x5lvQ .header-2C89wJ {
+    background-color: var(--background-secondary-alt);
+}
+#app-mount .container-2x5lvQ section {
+    background-color: var(--background-secondary);
+}
+
+#app-mount .streamPreview-2-WUWT {
+    background-color: var(--background-tertiary);
+}
+#app-mount .streamPreview-2-WUWT .previewContainer-12UlHl {
+    background-color: var(--deprecated-panel-background);
 }
 
 #app-mount .userPopout-3XzG_A {
